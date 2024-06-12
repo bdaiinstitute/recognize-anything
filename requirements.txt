@@ -6,4 +6,4 @@ torch
 torchvision
 Pillow
 scipy
-clip @ https://github.com/kjgada/CLIP/releases/download/1.0/clip-1.0-py3-none-any.whl
+clip @ https://github.com/bdaiinstitute/CLIP/releases/download/1.0/clip-1.0-py3-none-any.whl
